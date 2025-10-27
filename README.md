@@ -1,3 +1,3 @@
-# sea-turtle-control-system-GEN1
+# sea-turtle-control-system-V1
 Control framework for sea turtle–inspired underwater robotics.
 
